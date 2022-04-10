@@ -4,7 +4,7 @@ TThis page describes in detail my experience and skills.
 
 ## Profile pages
 
-If you are interested in my experience, please click here: link:https://hajihyeon.github.io/profile/[here].
+If you are interested in my experience, please click [here](link:https://hajihyeon.github.io/profile/).
 
 
 
