@@ -12,7 +12,6 @@ If you are interested in my experience, please click [here](https://hajihyeon.gi
 ## How to Use this project
 - git clone {your_forked_project}
 - Modify 'NOTION_PAGE_ID' in my-post.js
-- git fetch origin
-- git checkout gh-pages
+- npm run clean
 - npm run deploy
 
